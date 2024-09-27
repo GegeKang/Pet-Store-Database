@@ -1,7 +1,7 @@
 // Binary Search Tree ADT
-// Created by: Sungjun AN
+// Created by: Sungjun AN and Gezheng Kang
 /*
-    Team project group number 3, Unit 2: BST algorithm by Sungjun An.
+    Team project group number 3, Unit 2: BST algorithm by Sungjun An; Deletion by Gezheng Kang
     In this project, the BST algorithm successfully constructs a Binary tree of nodes of data containing
     each pet object's attributes with a key being the owner's name in ASCII value.
     The order which the tree gets inserted and organized is determined by that value.
