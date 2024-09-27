@@ -1,12 +1,12 @@
 /*
-  CIS 22C Team Project, Team #3 - A Database of Cupertino Pet Store.
+  CIS 22C Team Project, Team #3 - A Database of A Pet Store.
 - Data Structure: binary search tree and hash table implementation
 - Firstly, we will display a greeting message
-- Secondly, we sill display the menu.
-- Then, according to the menu,the user will enter some letters.
-- The program is executed depend on the input letter.
+- Secondly, we will display the menu.
+- Then, according to the menu, the user will enter some letters.
+- The program is executed depending on the input letter.
 - After the program is done, display a goodbye message.
-- Written by: team #3, teamLeader: Gezheng Kang
+- Written by: team #3, team leader: Gezheng Kang
 - For this main.cpp file,
   -- unit 1 / Team Coordination done by Gezheng Kang
   -- unit 4 / Screen Output done by Katie Leong
